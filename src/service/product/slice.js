@@ -10,3 +10,4 @@ export const productSlice = createSlice({
     ],
     reducers: {}
 })
+
